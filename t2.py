@@ -3,6 +3,7 @@
 # 2. For bonus: Give your own picturs. If you have N pictures, name your pictures such as ["t3_1.png", "t3_2.png", ..., "t3_N.png"], and put them inside the folder "images".
 # 3. Not following the project guidelines will result in a 10% reduction in grades
 
+#   This File has a python code that merge multiple overlapping images into a single panaroma. Please mid the naming convention of input images
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
